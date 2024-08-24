@@ -1,0 +1,13 @@
+HighPrecision: true
+HighPriority: true
+Delay: 1000
+Sensors:
+  - "CPU (Tctl/Tdie)"
+  - "CPU CCD1 (Tdie)"
+  - "GPU Temperature"
+  - "GPU Hot Spot Temperature"
+  - "Temperature 1"
+  - "Fan 7"
+SerialPort:
+  PortName: "COM3"
+  BaudRate: 115200
