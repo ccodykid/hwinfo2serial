@@ -1,13 +1,15 @@
+# HWHash configuration parameters.
+# In most cases, they do not need to be changed.
 HighPrecision: true
 HighPriority: true
-Delay: 1000
+Delay: 500
+
+# Sensor values to be sent to serial output.
+# String must be the current sensor name in HWiNFO.
 Sensors:
-  - "CPU (Tctl/Tdie)"
-  - "CPU CCD1 (Tdie)"
-  - "GPU Temperature"
-  - "GPU Hot Spot Temperature"
-  - "Temperature 1"
-  - "Fan 7"
-SerialPort:
-  PortName: "COM3"
-  BaudRate: 115200
+#  - "CPU (Tctl/Tdie)"
+#  - "GPU Hot Spot Temperature"
+
+# Serialport settings.
+PortName: "COM3"
+BaudRate: 115200
