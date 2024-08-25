@@ -10,29 +10,24 @@ class Program
         public bool HighPriority { get; set; }
         public int Delay { get; set; }
         public required List<string> Sensors { get; set; }
-        public required SerialPortConfig SerialPort { get; set; }
-    }
-    public class SerialPortConfig
-    {
         public required string PortName { get; set; }
         public int BaudRate { get; set; }
     }
 
     static void Main(string[] args)
     {
-        var testDir = Directory.GetCurrentDirectory();
         var configContent = File.ReadAllText(Directory.GetCurrentDirectory() + "\\config.yaml");
         var deserializer = new DeserializerBuilder().Build();
         Config config = deserializer.Deserialize<Config>(configContent);
 
-        HighPrecision = config.HighPrecision;
-        HighPriority = config.HighPriority;
-        SetDelay(config.Delay);
-        Launch();
+        HWHash.HighPrecision = config.HighPrecision;
+        HWHash.HighPriority = config.HighPriority;
+        HWHash.SetDelay(config.Delay);
+        HWHash.Launch();
 
         List<string> sensors = config.Sensors;
 
-        SerialPort serialPort = new SerialPort(config.SerialPort.PortName, config.SerialPort.BaudRate);
+        SerialPort serialPort = new SerialPort(config.PortName, config.BaudRate);
 
         try
         {
@@ -74,7 +69,7 @@ class Program
 
                     serialPort.WriteLine(result);
 
-                    Thread.Sleep(1000);
+                    Thread.Sleep(config.Delay);
                 }
             }
         }
