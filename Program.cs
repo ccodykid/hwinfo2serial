@@ -1,6 +1,7 @@
 ﻿using static HWHash;
 using System.IO.Ports;
 using YamlDotNet.Serialization;
+using System.Linq.Expressions;
 
 class Program
 {
@@ -23,8 +24,9 @@ class Program
         HWHash.HighPrecision = config.HighPrecision;
         HWHash.HighPriority = config.HighPriority;
         HWHash.SetDelay(config.Delay);
-        HWHash.Launch();
+        bool launch = HWHash.Launch();
 
+        bool SEND_STATUS = false;
         List<string> sensors = config.Sensors;
 
         SerialPort serialPort = new SerialPort(config.PortName, config.BaudRate);
@@ -40,16 +42,18 @@ class Program
 
         try
         {
-            while (true)
+            while (launch)
             {
                 List<HWINFO_HASH_MINI> _HWHashOrderedListMini = GetOrderedListMini();
 
                 if (_HWHashOrderedListMini == null || !_HWHashOrderedListMini.Any())
                 {
 
-                    Console.WriteLine("No sensor data available.");
-                    Console.WriteLine("Please start HWiNFO and turn on Shared Memory before starting this program.");
-                    Console.WriteLine("Exiting...");
+                    Console.WriteLine(
+                        "No sensor data available.\n" + 
+                        "Please start HWiNFO and turn on Shared Memory before starting this program.\n" +
+                        "Exiting...\n"
+                    );
 
                     return;
                 }
@@ -67,7 +71,21 @@ class Program
 
                     string result = string.Join("-", values);
 
-                    serialPort.WriteLine(result);
+                    try
+                    {
+                        serialPort.WriteLine(result);
+                    }
+                    catch(Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                        serialPort.Close();
+                    }
+
+                    if (!SEND_STATUS)
+                    {
+                        Console.WriteLine($"Sending data to {config.PortName}...");
+                        SEND_STATUS = true;
+                    }
 
                     Thread.Sleep(config.Delay);
                 }
@@ -75,8 +93,8 @@ class Program
         }
         finally
         {
+            Console.WriteLine("Exiting...");
             serialPort.Close();
         }
-
     }
 }

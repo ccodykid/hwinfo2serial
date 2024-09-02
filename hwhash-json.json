@@ -1,0 +1,2374 @@
+{
+    "335544361": {
+        "UniqueID": 335544361,
+        "NameCustom": "Core 4 VID",
+        "Unit": "V",
+        "ValuePrev": 1.38125,
+        "ValueNow": 1.38125
+    },
+    "335544365": {
+        "UniqueID": 335544365,
+        "NameCustom": "CPU VCORE SoC",
+        "Unit": "V",
+        "ValuePrev": 1.2,
+        "ValueNow": 1.2
+    },
+    "1677721810": {
+        "UniqueID": 1677721810,
+        "NameCustom": "DIMM[2] Temperature (P0 CHANNEL B/DIMM 0)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 47.8125,
+        "ValueNow": 47.8125
+    },
+    "335544366": {
+        "UniqueID": 335544366,
+        "NameCustom": "CPU VDD18",
+        "Unit": "V",
+        "ValuePrev": 1.815,
+        "ValueNow": 1.815
+    },
+    "3355443618": {
+        "UniqueID": 3355443618,
+        "NameCustom": "Fan Voltage 5",
+        "Unit": "V",
+        "ValuePrev": 11.91,
+        "ValueNow": 11.91
+    },
+    "335544371": {
+        "UniqueID": 335544371,
+        "NameCustom": "Core 5 VID",
+        "Unit": "V",
+        "ValuePrev": 1.38125,
+        "ValueNow": 1.38125
+    },
+    "335544375": {
+        "UniqueID": 335544375,
+        "NameCustom": "CPU VDDP",
+        "Unit": "V",
+        "ValuePrev": 0.912,
+        "ValueNow": 0.912
+    },
+    "335544376": {
+        "UniqueID": 335544376,
+        "NameCustom": "PM_CLDO12",
+        "Unit": "V",
+        "ValuePrev": 1.529,
+        "ValueNow": 1.529
+    },
+    "335544381": {
+        "UniqueID": 335544381,
+        "NameCustom": "Core 6 VID",
+        "Unit": "V",
+        "ValuePrev": 1.38125,
+        "ValueNow": 1.38125
+    },
+    "335544385": {
+        "UniqueID": 335544385,
+        "NameCustom": "DRAM",
+        "Unit": "V",
+        "ValuePrev": 1.3800000000000001,
+        "ValueNow": 1.3800000000000001
+    },
+    "335544391": {
+        "UniqueID": 335544391,
+        "NameCustom": "Core 7 VID",
+        "Unit": "V",
+        "ValuePrev": 1.38125,
+        "ValueNow": 1.38125
+    },
+    "335544395": {
+        "UniqueID": 335544395,
+        "NameCustom": "3VSB",
+        "Unit": "V",
+        "ValuePrev": 3.2880000000000003,
+        "ValueNow": 3.2880000000000003
+    },
+    "335544396": {
+        "UniqueID": 335544396,
+        "NameCustom": "3VSB",
+        "Unit": "V",
+        "ValuePrev": 3.388,
+        "ValueNow": 3.388
+    },
+    "335544405": {
+        "UniqueID": 335544405,
+        "NameCustom": "VBAT",
+        "Unit": "V",
+        "ValuePrev": 3.12,
+        "ValueNow": 3.12
+    },
+    "335544406": {
+        "UniqueID": 335544406,
+        "NameCustom": "VBAT",
+        "Unit": "V",
+        "ValuePrev": 3.1679999999999997,
+        "ValueNow": 3.1679999999999997
+    },
+    "11744057517": {
+        "UniqueID": 11744057517,
+        "NameCustom": "GPU VR GFX Thermal Limit",
+        "Unit": "%",
+        "ValuePrev": 33.0434915293818,
+        "ValueNow": 33.0434915293818
+    },
+    "335544415": {
+        "UniqueID": 335544415,
+        "NameCustom": "AVCC3",
+        "Unit": "V",
+        "ValuePrev": 3.072,
+        "ValueNow": 3.072
+    },
+    "1006633141": {
+        "UniqueID": 1006633141,
+        "NameCustom": "Core 0 T0 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 1028.201171875,
+        "ValueNow": 1028.201171875
+    },
+    "1006633151": {
+        "UniqueID": 1006633151,
+        "NameCustom": "Core 0 T1 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 694.8284443716702,
+        "ValueNow": 694.8284443716702
+    },
+    "1006633161": {
+        "UniqueID": 1006633161,
+        "NameCustom": "Core 1 T0 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 972.9960826737063,
+        "ValueNow": 972.9960826737063
+    },
+    "1174405802": {
+        "UniqueID": 1174405802,
+        "NameCustom": "Core 0 C6 Residency",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1006633171": {
+        "UniqueID": 1006633171,
+        "NameCustom": "Core 1 T1 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 415.2950388712195,
+        "ValueNow": 415.2950388712195
+    },
+    "1174405812": {
+        "UniqueID": 1174405812,
+        "NameCustom": "Core 1 C6 Residency",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1677722817": {
+        "UniqueID": 1677722817,
+        "NameCustom": "GPU VR VDDIO Temperature",
+        "Unit": "\u00B0C",
+        "ValuePrev": 39.00003433227539,
+        "ValueNow": 39.00003433227539
+    },
+    "1006633181": {
+        "UniqueID": 1006633181,
+        "NameCustom": "Core 2 T0 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 78.15121480742648,
+        "ValueNow": 78.15121480742648
+    },
+    "1174405822": {
+        "UniqueID": 1174405822,
+        "NameCustom": "Core 2 C6 Residency",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1677721910": {
+        "UniqueID": 1677721910,
+        "NameCustom": "DIMM[3] Temperature (P0 CHANNEL B/DIMM 1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 45.4375,
+        "ValueNow": 45.4375
+    },
+    "1006633191": {
+        "UniqueID": 1006633191,
+        "NameCustom": "Core 2 T1 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 84.30344071539004,
+        "ValueNow": 84.30344071539004
+    },
+    "1174405832": {
+        "UniqueID": 1174405832,
+        "NameCustom": "Core 3 C6 Residency",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1006633201": {
+        "UniqueID": 1006633201,
+        "NameCustom": "Core 3 T0 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 197.49647207764525,
+        "ValueNow": 197.49647207764525
+    },
+    "1174405842": {
+        "UniqueID": 1174405842,
+        "NameCustom": "Core 4 C6 Residency",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1006633211": {
+        "UniqueID": 1006633211,
+        "NameCustom": "Core 3 T1 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 429.19709330420613,
+        "ValueNow": 429.19709330420613
+    },
+    "1174405852": {
+        "UniqueID": 1174405852,
+        "NameCustom": "Core 5 C6 Residency",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "8388608817": {
+        "UniqueID": 8388608817,
+        "NameCustom": "GPU ASIC Power",
+        "Unit": "W",
+        "ValuePrev": 26,
+        "ValueNow": 26
+    },
+    "1006633221": {
+        "UniqueID": 1006633221,
+        "NameCustom": "Core 4 T0 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 93.94678085234902,
+        "ValueNow": 93.94678085234902
+    },
+    "1174405862": {
+        "UniqueID": 1174405862,
+        "NameCustom": "Core 6 C6 Residency",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "5033165218": {
+        "UniqueID": 5033165218,
+        "NameCustom": "Fan 5",
+        "Unit": "RPM",
+        "ValuePrev": 889,
+        "ValueNow": 889
+    },
+    "1006633231": {
+        "UniqueID": 1006633231,
+        "NameCustom": "Core 4 T1 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 136.67479911819677,
+        "ValueNow": 136.67479911819677
+    },
+    "1174405872": {
+        "UniqueID": 1174405872,
+        "NameCustom": "Core 7 C6 Residency",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "11744057617": {
+        "UniqueID": 11744057617,
+        "NameCustom": "GPU VR SOC Thermal Limit",
+        "Unit": "%",
+        "ValuePrev": 31.502430128014606,
+        "ValueNow": 31.502430128014606
+    },
+    "1006633241": {
+        "UniqueID": 1006633241,
+        "NameCustom": "Core 5 T0 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 113.72124096362086,
+        "ValueNow": 113.72124096362086
+    },
+    "167774644": {
+        "UniqueID": 167774644,
+        "NameCustom": "CPU IOD Hotspot",
+        "Unit": "\u00B0C",
+        "ValuePrev": 38,
+        "ValueNow": 38
+    },
+    "1006633251": {
+        "UniqueID": 1006633251,
+        "NameCustom": "Core 5 T1 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 186.8922455301055,
+        "ValueNow": 186.8922455301055
+    },
+    "11744051211": {
+        "UniqueID": 11744051211,
+        "NameCustom": "Drive Remaining Life",
+        "Unit": "%",
+        "ValuePrev": 99,
+        "ValueNow": 99
+    },
+    "167774654": {
+        "UniqueID": 167774654,
+        "NameCustom": "CPU IOD Average",
+        "Unit": "\u00B0C",
+        "ValuePrev": 35.25,
+        "ValueNow": 35.25
+    },
+    "11744051214": {
+        "UniqueID": 11744051214,
+        "NameCustom": "Read Activity",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1006633261": {
+        "UniqueID": 1006633261,
+        "NameCustom": "Core 6 T0 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 120.70215298948702,
+        "ValueNow": 120.70215298948702
+    },
+    "11744051215": {
+        "UniqueID": 11744051215,
+        "NameCustom": "Read Activity",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "11744051212": {
+        "UniqueID": 11744051212,
+        "NameCustom": "Drive Remaining Life",
+        "Unit": "%",
+        "ValuePrev": 95,
+        "ValueNow": 95
+    },
+    "11744051213": {
+        "UniqueID": 11744051213,
+        "NameCustom": "Drive Remaining Life",
+        "Unit": "%",
+        "ValuePrev": 97,
+        "ValueNow": 97
+    },
+    "11744051216": {
+        "UniqueID": 11744051216,
+        "NameCustom": "Read Activity",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "11744051217": {
+        "UniqueID": 11744051217,
+        "NameCustom": "GPU Utilization",
+        "Unit": "%",
+        "ValuePrev": 3,
+        "ValueNow": 3
+    },
+    "1006633271": {
+        "UniqueID": 1006633271,
+        "NameCustom": "Core 6 T1 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 122.13209944980184,
+        "ValueNow": 122.13209944980184
+    },
+    "1677722917": {
+        "UniqueID": 1677722917,
+        "NameCustom": "GPU VR VDDCI Temperature",
+        "Unit": "\u00B0C",
+        "ValuePrev": 38.98257064819336,
+        "ValueNow": 38.98257064819336
+    },
+    "1006633281": {
+        "UniqueID": 1006633281,
+        "NameCustom": "Core 7 T0 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 665.7261987623071,
+        "ValueNow": 665.7261987623071
+    },
+    "3355443818": {
+        "UniqueID": 3355443818,
+        "NameCustom": "Fan Voltage 7",
+        "Unit": "V",
+        "ValuePrev": 11.91,
+        "ValueNow": 11.91
+    },
+    "1006633291": {
+        "UniqueID": 1006633291,
+        "NameCustom": "Core 7 T1 Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 661.2595370447523,
+        "ValueNow": 661.2595370447523
+    },
+    "1677722018": {
+        "UniqueID": 1677722018,
+        "NameCustom": "Soft. Temperature 1",
+        "Unit": "\u00B0C",
+        "ValuePrev": 47.75,
+        "ValueNow": 47.75
+    },
+    "1006633301": {
+        "UniqueID": 1006633301,
+        "NameCustom": "Average Effective Clock",
+        "Unit": "MHz",
+        "ValuePrev": 375.0952508379303,
+        "ValueNow": 375.0952508379303
+    },
+    "8388608917": {
+        "UniqueID": 8388608917,
+        "NameCustom": "Total Graphics Power (TGP)",
+        "Unit": "W",
+        "ValuePrev": 26.54721450805664,
+        "ValueNow": 26.54721450805664
+    },
+    "1006633334": {
+        "UniqueID": 1006633334,
+        "NameCustom": "Frequency Limit - Global",
+        "Unit": "MHz",
+        "ValuePrev": 4849.9345779418945,
+        "ValueNow": 4849.9345779418945
+    },
+    "11744057717": {
+        "UniqueID": 11744057717,
+        "NameCustom": "GPU VR MEM Thermal Limit",
+        "Unit": "%",
+        "ValuePrev": 33.91307001528533,
+        "ValueNow": 33.91307001528533
+    },
+    "8388608018": {
+        "UniqueID": 8388608018,
+        "NameCustom": "Fan Power 1",
+        "Unit": "W",
+        "ValuePrev": 0.19,
+        "ValueNow": 0.19
+    },
+    "11744052217": {
+        "UniqueID": 11744052217,
+        "NameCustom": "GPU Video Decode 0 Usage",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "11744051314": {
+        "UniqueID": 11744051314,
+        "NameCustom": "Write Activity",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "11744051315": {
+        "UniqueID": 11744051315,
+        "NameCustom": "Write Activity",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "11744051313": {
+        "UniqueID": 11744051313,
+        "NameCustom": "Drive Available Spare",
+        "Unit": "%",
+        "ValuePrev": 100,
+        "ValueNow": 100
+    },
+    "11744051316": {
+        "UniqueID": 11744051316,
+        "NameCustom": "Write Activity",
+        "Unit": "%",
+        "ValuePrev": 0.647,
+        "ValueNow": 0.647
+    },
+    "11744051317": {
+        "UniqueID": 11744051317,
+        "NameCustom": "GPU D3D Usage",
+        "Unit": "%",
+        "ValuePrev": 6.226552811642717,
+        "ValueNow": 6.226552811642717
+    },
+    "13421772811": {
+        "UniqueID": 13421772811,
+        "NameCustom": "Drive Failure",
+        "Unit": "Yes/No",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1677722117": {
+        "UniqueID": 1677722117,
+        "NameCustom": "GPU Memory Junction Temperature",
+        "Unit": "\u00B0C",
+        "ValuePrev": 39.9999885559082,
+        "ValueNow": 39.9999885559082
+    },
+    "1677722118": {
+        "UniqueID": 1677722118,
+        "NameCustom": "Soft. Temperature 2",
+        "Unit": "\u00B0C",
+        "ValuePrev": 52,
+        "ValueNow": 52
+    },
+    "13421772815": {
+        "UniqueID": 13421772815,
+        "NameCustom": "Read Rate",
+        "Unit": "MB/s",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421772814": {
+        "UniqueID": 13421772814,
+        "NameCustom": "Read Rate",
+        "Unit": "MB/s",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421772813": {
+        "UniqueID": 13421772813,
+        "NameCustom": "Drive Failure",
+        "Unit": "Yes/No",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421772812": {
+        "UniqueID": 13421772812,
+        "NameCustom": "Drive Failure",
+        "Unit": "Yes/No",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1174405121": {
+        "UniqueID": 1174405121,
+        "NameCustom": "Core 0 T0 Usage",
+        "Unit": "%",
+        "ValuePrev": 9.237435,
+        "ValueNow": 9.237435
+    },
+    "13421772819": {
+        "UniqueID": 13421772819,
+        "NameCustom": "Framerate (Presented)",
+        "Unit": "FPS",
+        "ValuePrev": 165.18568258212903,
+        "ValueNow": 165.18568258212903
+    },
+    "13421772818": {
+        "UniqueID": 13421772818,
+        "NameCustom": "Flow",
+        "Unit": "l/h",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421772817": {
+        "UniqueID": 13421772817,
+        "NameCustom": "GPU Fan PWM",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1174405124": {
+        "UniqueID": 1174405124,
+        "NameCustom": "CPU PPT Limit",
+        "Unit": "%",
+        "ValuePrev": 32.52100340077575,
+        "ValueNow": 32.52100340077575
+    },
+    "13421772816": {
+        "UniqueID": 13421772816,
+        "NameCustom": "Read Rate",
+        "Unit": "MB/s",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421772821": {
+        "UniqueID": 13421772821,
+        "NameCustom": "Total Errors",
+        "Unit": "",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421772820": {
+        "UniqueID": 13421772820,
+        "NameCustom": "Total DL",
+        "Unit": "MB",
+        "ValuePrev": 8722.852449417114,
+        "ValueNow": 8722.852449417114
+    },
+    "1174405131": {
+        "UniqueID": 1174405131,
+        "NameCustom": "Core 0 T1 Usage",
+        "Unit": "%",
+        "ValuePrev": 16.02061,
+        "ValueNow": 16.02061
+    },
+    "1174405134": {
+        "UniqueID": 1174405134,
+        "NameCustom": "CPU TDC Limit",
+        "Unit": "%",
+        "ValuePrev": 14.844717728464227,
+        "ValueNow": 14.844717728464227
+    },
+    "1174405141": {
+        "UniqueID": 1174405141,
+        "NameCustom": "Core 1 T0 Usage",
+        "Unit": "%",
+        "ValuePrev": 21.161690708661418,
+        "ValueNow": 21.161690708661418
+    },
+    "5033165418": {
+        "UniqueID": 5033165418,
+        "NameCustom": "Fan 7",
+        "Unit": "RPM",
+        "ValuePrev": 2176,
+        "ValueNow": 2176
+    },
+    "11744053217": {
+        "UniqueID": 11744053217,
+        "NameCustom": "GPU Video Encode 0 Usage",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1174405151": {
+        "UniqueID": 1174405151,
+        "NameCustom": "Core 1 T1 Usage",
+        "Unit": "%",
+        "ValuePrev": 9.310415,
+        "ValueNow": 9.310415
+    },
+    "1174405154": {
+        "UniqueID": 1174405154,
+        "NameCustom": "CPU EDC Limit",
+        "Unit": "%",
+        "ValuePrev": 11.403040441771946,
+        "ValueNow": 11.403040441771946
+    },
+    "8388608117": {
+        "UniqueID": 8388608117,
+        "NameCustom": "GPU Core Power (VDDCR_GFX)",
+        "Unit": "W",
+        "ValuePrev": 0.9800991415977478,
+        "ValueNow": 0.9800991415977478
+    },
+    "1174405161": {
+        "UniqueID": 1174405161,
+        "NameCustom": "Core 2 T0 Usage",
+        "Unit": "%",
+        "ValuePrev": 1.77011,
+        "ValueNow": 1.77011
+    },
+    "838860804": {
+        "UniqueID": 838860804,
+        "NameCustom": "CPU Package Power",
+        "Unit": "W",
+        "ValuePrev": 47.29235306067733,
+        "ValueNow": 47.29235306067733
+    },
+    "838860807": {
+        "UniqueID": 838860807,
+        "NameCustom": "Power (POUT)",
+        "Unit": "W",
+        "ValuePrev": 30,
+        "ValueNow": 30
+    },
+    "838860808": {
+        "UniqueID": 838860808,
+        "NameCustom": "Power (POUT)",
+        "Unit": "W",
+        "ValuePrev": 15,
+        "ValueNow": 15
+    },
+    "11744052317": {
+        "UniqueID": 11744052317,
+        "NameCustom": "GPU Video Decode 1 Usage",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1174405171": {
+        "UniqueID": 1174405171,
+        "NameCustom": "Core 2 T1 Usage",
+        "Unit": "%",
+        "ValuePrev": 1.91541,
+        "ValueNow": 1.91541
+    },
+    "838860814": {
+        "UniqueID": 838860814,
+        "NameCustom": "Core 0 Power",
+        "Unit": "W",
+        "ValuePrev": 2.417405366897583,
+        "ValueNow": 2.417405366897583
+    },
+    "838860817": {
+        "UniqueID": 838860817,
+        "NameCustom": "Power (Input)",
+        "Unit": "W",
+        "ValuePrev": 33,
+        "ValueNow": 33
+    },
+    "838860818": {
+        "UniqueID": 838860818,
+        "NameCustom": "Power (Input)",
+        "Unit": "W",
+        "ValuePrev": 18,
+        "ValueNow": 18
+    },
+    "1174405181": {
+        "UniqueID": 1174405181,
+        "NameCustom": "Core 3 T0 Usage",
+        "Unit": "%",
+        "ValuePrev": 4.418545,
+        "ValueNow": 4.418545
+    },
+    "11744051414": {
+        "UniqueID": 11744051414,
+        "NameCustom": "Total Activity",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1174405182": {
+        "UniqueID": 1174405182,
+        "NameCustom": "Package C6 Residency",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "11744051415": {
+        "UniqueID": 11744051415,
+        "NameCustom": "Total Activity",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "838860824": {
+        "UniqueID": 838860824,
+        "NameCustom": "Core 1 Power",
+        "Unit": "W",
+        "ValuePrev": 2.895111634511563,
+        "ValueNow": 2.895111634511563
+    },
+    "11744051416": {
+        "UniqueID": 11744051416,
+        "NameCustom": "Total Activity",
+        "Unit": "%",
+        "ValuePrev": 0.647,
+        "ValueNow": 0.647
+    },
+    "11744051417": {
+        "UniqueID": 11744051417,
+        "NameCustom": "GPU Memory Controller Utilization",
+        "Unit": "%",
+        "ValuePrev": 1,
+        "ValueNow": 1
+    },
+    "1174405191": {
+        "UniqueID": 1174405191,
+        "NameCustom": "Core 3 T1 Usage",
+        "Unit": "%",
+        "ValuePrev": 10.1311,
+        "ValueNow": 10.1311
+    },
+    "10066329617": {
+        "UniqueID": 10066329617,
+        "NameCustom": "GPU Clock",
+        "Unit": "MHz",
+        "ValuePrev": 68,
+        "ValueNow": 68
+    },
+    "838860834": {
+        "UniqueID": 838860834,
+        "NameCustom": "Core 2 Power",
+        "Unit": "W",
+        "ValuePrev": 1.215343241088727,
+        "ValueNow": 1.215343241088727
+    },
+    "1174405201": {
+        "UniqueID": 1174405201,
+        "NameCustom": "Core 4 T0 Usage",
+        "Unit": "%",
+        "ValuePrev": 2.109455,
+        "ValueNow": 2.109455
+    },
+    "13421773819": {
+        "UniqueID": 13421773819,
+        "NameCustom": "Framerate (Displayed)",
+        "Unit": "FPS",
+        "ValuePrev": 164.98499587134714,
+        "ValueNow": 164.98499587134714
+    },
+    "838860844": {
+        "UniqueID": 838860844,
+        "NameCustom": "Core 3 Power",
+        "Unit": "W",
+        "ValuePrev": 1.8456746237051798,
+        "ValueNow": 1.8456746237051798
+    },
+    "1174405211": {
+        "UniqueID": 1174405211,
+        "NameCustom": "Core 4 T1 Usage",
+        "Unit": "%",
+        "ValuePrev": 3.15547,
+        "ValueNow": 3.15547
+    },
+    "13421772911": {
+        "UniqueID": 13421772911,
+        "NameCustom": "Drive Warning",
+        "Unit": "Yes/No",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "838860854": {
+        "UniqueID": 838860854,
+        "NameCustom": "Core 4 Power",
+        "Unit": "W",
+        "ValuePrev": 1.2824135138031345,
+        "ValueNow": 1.2824135138031345
+    },
+    "1677722217": {
+        "UniqueID": 1677722217,
+        "NameCustom": "GPU VR VDDC Temperature",
+        "Unit": "\u00B0C",
+        "ValuePrev": 38.000038146972656,
+        "ValueNow": 38.000038146972656
+    },
+    "1677722218": {
+        "UniqueID": 1677722218,
+        "NameCustom": "Soft. Temperature 3",
+        "Unit": "\u00B0C",
+        "ValuePrev": 36,
+        "ValueNow": 36
+    },
+    "13421772915": {
+        "UniqueID": 13421772915,
+        "NameCustom": "Write Rate",
+        "Unit": "MB/s",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421772914": {
+        "UniqueID": 13421772914,
+        "NameCustom": "Write Rate",
+        "Unit": "MB/s",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421772913": {
+        "UniqueID": 13421772913,
+        "NameCustom": "Drive Warning",
+        "Unit": "Yes/No",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421772912": {
+        "UniqueID": 13421772912,
+        "NameCustom": "Drive Warning",
+        "Unit": "Yes/No",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1174405221": {
+        "UniqueID": 1174405221,
+        "NameCustom": "Core 5 T0 Usage",
+        "Unit": "%",
+        "ValuePrev": 2.55985,
+        "ValueNow": 2.55985
+    },
+    "13421772917": {
+        "UniqueID": 13421772917,
+        "NameCustom": "GPU D3D Memory Dedicated",
+        "Unit": "MB",
+        "ValuePrev": 1545.54296875,
+        "ValueNow": 1545.54296875
+    },
+    "13421772916": {
+        "UniqueID": 13421772916,
+        "NameCustom": "Write Rate",
+        "Unit": "MB/s",
+        "ValuePrev": 0.049,
+        "ValueNow": 0.049
+    },
+    "838860864": {
+        "UniqueID": 838860864,
+        "NameCustom": "Core 5 Power",
+        "Unit": "W",
+        "ValuePrev": 1.3960983841368153,
+        "ValueNow": 1.3960983841368153
+    },
+    "13421772920": {
+        "UniqueID": 13421772920,
+        "NameCustom": "Total UP",
+        "Unit": "MB",
+        "ValuePrev": 361.48213958740234,
+        "ValueNow": 361.48213958740234
+    },
+    "1174405231": {
+        "UniqueID": 1174405231,
+        "NameCustom": "Core 5 T1 Usage",
+        "Unit": "%",
+        "ValuePrev": 4.29304,
+        "ValueNow": 4.29304
+    },
+    "11744054217": {
+        "UniqueID": 11744054217,
+        "NameCustom": "GPU Computing (Compute 0) Usage",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1174405234": {
+        "UniqueID": 1174405234,
+        "NameCustom": "Thermal Limit",
+        "Unit": "%",
+        "ValuePrev": 45.55918884277344,
+        "ValueNow": 45.55918884277344
+    },
+    "838860874": {
+        "UniqueID": 838860874,
+        "NameCustom": "Core 6 Power",
+        "Unit": "W",
+        "ValuePrev": 1.3077005615701291,
+        "ValueNow": 1.3077005615701291
+    },
+    "1174405241": {
+        "UniqueID": 1174405241,
+        "NameCustom": "Core 6 T0 Usage",
+        "Unit": "%",
+        "ValuePrev": 2.731175,
+        "ValueNow": 2.731175
+    },
+    "1174405242": {
+        "UniqueID": 1174405242,
+        "NameCustom": "Core 0 C0 Residency",
+        "Unit": "%",
+        "ValuePrev": 24.188047409057617,
+        "ValueNow": 24.188047409057617
+    },
+    "838860884": {
+        "UniqueID": 838860884,
+        "NameCustom": "Core 7 Power",
+        "Unit": "W",
+        "ValuePrev": 2.77379733236315,
+        "ValueNow": 2.77379733236315
+    },
+    "167772164": {
+        "UniqueID": 167772164,
+        "NameCustom": "CPU (Tctl/Tdie)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 47.125,
+        "ValueNow": 47.125
+    },
+    "167772165": {
+        "UniqueID": 167772165,
+        "NameCustom": "System1",
+        "Unit": "\u00B0C",
+        "ValuePrev": 39,
+        "ValueNow": 39
+    },
+    "167772166": {
+        "UniqueID": 167772166,
+        "NameCustom": "PCIEX8",
+        "Unit": "\u00B0C",
+        "ValuePrev": 39,
+        "ValueNow": 39
+    },
+    "167772167": {
+        "UniqueID": 167772167,
+        "NameCustom": "VR Loop1",
+        "Unit": "\u00B0C",
+        "ValuePrev": 43,
+        "ValueNow": 43
+    },
+    "167772168": {
+        "UniqueID": 167772168,
+        "NameCustom": "VR Loop1",
+        "Unit": "\u00B0C",
+        "ValuePrev": 43,
+        "ValueNow": 43
+    },
+    "1174405251": {
+        "UniqueID": 1174405251,
+        "NameCustom": "Core 6 T1 Usage",
+        "Unit": "%",
+        "ValuePrev": 2.765245,
+        "ValueNow": 2.765245
+    },
+    "167772169": {
+        "UniqueID": 167772169,
+        "NameCustom": "TZ.UAD0",
+        "Unit": "\u00B0C",
+        "ValuePrev": 16.850000000000023,
+        "ValueNow": 16.850000000000023
+    },
+    "8388608217": {
+        "UniqueID": 8388608217,
+        "NameCustom": "GPU Memory Power (VDDIO)",
+        "Unit": "W",
+        "ValuePrev": 8.208301544189453,
+        "ValueNow": 8.208301544189453
+    },
+    "838860894": {
+        "UniqueID": 838860894,
+        "NameCustom": "CPU Core Power (SVI2 TFN)",
+        "Unit": "W",
+        "ValuePrev": 16.67032241821289,
+        "ValueNow": 16.67032241821289
+    },
+    "8388608218": {
+        "UniqueID": 8388608218,
+        "NameCustom": "Fan Power 3",
+        "Unit": "W",
+        "ValuePrev": 0.41,
+        "ValueNow": 0.41
+    },
+    "6710886417": {
+        "UniqueID": 6710886417,
+        "NameCustom": "GPU Core Current (VDDCR_GFX)",
+        "Unit": "A",
+        "ValuePrev": 1.110938310623169,
+        "ValueNow": 1.110938310623169
+    },
+    "167772177": {
+        "UniqueID": 167772177,
+        "NameCustom": "VR Loop2",
+        "Unit": "\u00B0C",
+        "ValuePrev": 38,
+        "ValueNow": 38
+    },
+    "167772178": {
+        "UniqueID": 167772178,
+        "NameCustom": "VR Loop2",
+        "Unit": "\u00B0C",
+        "ValuePrev": 38,
+        "ValueNow": 38
+    },
+    "1174405261": {
+        "UniqueID": 1174405261,
+        "NameCustom": "Core 7 T0 Usage",
+        "Unit": "%",
+        "ValuePrev": 15.148585,
+        "ValueNow": 15.148585
+    },
+    "1174405262": {
+        "UniqueID": 1174405262,
+        "NameCustom": "Core 1 C0 Residency",
+        "Unit": "%",
+        "ValuePrev": 30.67912483215332,
+        "ValueNow": 30.67912483215332
+    },
+    "838860904": {
+        "UniqueID": 838860904,
+        "NameCustom": "CPU SoC Power (SVI2 TFN)",
+        "Unit": "W",
+        "ValuePrev": 16.45165252685547,
+        "ValueNow": 16.45165252685547
+    },
+    "167772185": {
+        "UniqueID": 167772185,
+        "NameCustom": "CPU",
+        "Unit": "\u00B0C",
+        "ValuePrev": 47,
+        "ValueNow": 47
+    },
+    "167772186": {
+        "UniqueID": 167772186,
+        "NameCustom": "System2",
+        "Unit": "\u00B0C",
+        "ValuePrev": 40,
+        "ValueNow": 40
+    },
+    "1174405271": {
+        "UniqueID": 1174405271,
+        "NameCustom": "Core 7 T1 Usage",
+        "Unit": "%",
+        "ValuePrev": 14.312245,
+        "ValueNow": 14.312245
+    },
+    "11744057017": {
+        "UniqueID": 11744057017,
+        "NameCustom": "GPU Core TDC Limit",
+        "Unit": "%",
+        "ValuePrev": 0.36899056285619736,
+        "ValueNow": 0.36899056285619736
+    },
+    "838860914": {
+        "UniqueID": 838860914,
+        "NameCustom": "Core\u002BSoC Power (SVI2 TFN)",
+        "Unit": "W",
+        "ValuePrev": 33.12197494506836,
+        "ValueNow": 33.12197494506836
+    },
+    "167772194": {
+        "UniqueID": 167772194,
+        "NameCustom": "CPU Die (average)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 41.00326919555664,
+        "ValueNow": 41.00326919555664
+    },
+    "167772195": {
+        "UniqueID": 167772195,
+        "NameCustom": "PCIEX16",
+        "Unit": "\u00B0C",
+        "ValuePrev": 39,
+        "ValueNow": 39
+    },
+    "1174405281": {
+        "UniqueID": 1174405281,
+        "NameCustom": "Max CPU/Thread Usage",
+        "Unit": "%",
+        "ValuePrev": 21.161690708661418,
+        "ValueNow": 21.161690708661418
+    },
+    "1174405282": {
+        "UniqueID": 1174405282,
+        "NameCustom": "Core 2 C0 Residency",
+        "Unit": "%",
+        "ValuePrev": 3.6243889331817627,
+        "ValueNow": 3.6243889331817627
+    },
+    "13421774819": {
+        "UniqueID": 13421774819,
+        "NameCustom": "Frame Time",
+        "Unit": "ms",
+        "ValuePrev": 6.053793430328369,
+        "ValueNow": 6.053793430328369
+    },
+    "838860924": {
+        "UniqueID": 838860924,
+        "NameCustom": "CPU PPT",
+        "Unit": "W",
+        "ValuePrev": 46.17982482910156,
+        "ValueNow": 46.17982482910156
+    },
+    "167772205": {
+        "UniqueID": 167772205,
+        "NameCustom": "VRM MOS",
+        "Unit": "\u00B0C",
+        "ValuePrev": 42,
+        "ValueNow": 42
+    },
+    "1174405291": {
+        "UniqueID": 1174405291,
+        "NameCustom": "Total CPU Usage",
+        "Unit": "%",
+        "ValuePrev": 7.565023794291338,
+        "ValueNow": 7.565023794291338
+    },
+    "10066329717": {
+        "UniqueID": 10066329717,
+        "NameCustom": "GPU Clock (Effective)",
+        "Unit": "MHz",
+        "ValuePrev": 43.391639709472656,
+        "ValueNow": 43.391639709472656
+    },
+    "8388611017": {
+        "UniqueID": 8388611017,
+        "NameCustom": "GPU PPT Limit",
+        "Unit": "W",
+        "ValuePrev": 281,
+        "ValueNow": 281
+    },
+    "167772215": {
+        "UniqueID": 167772215,
+        "NameCustom": "PCH",
+        "Unit": "\u00B0C",
+        "ValuePrev": 43,
+        "ValueNow": 43
+    },
+    "1174405302": {
+        "UniqueID": 1174405302,
+        "NameCustom": "Core 3 C0 Residency",
+        "Unit": "%",
+        "ValuePrev": 14.385177612304688,
+        "ValueNow": 14.385177612304688
+    },
+    "1174405311": {
+        "UniqueID": 1174405311,
+        "NameCustom": "Core 0 T0 Utility",
+        "Unit": "%",
+        "ValuePrev": 10.312990160445919,
+        "ValueNow": 10.312990160445919
+    },
+    "13421773011": {
+        "UniqueID": 13421773011,
+        "NameCustom": "Total Host Writes",
+        "Unit": "GB",
+        "ValuePrev": 4418,
+        "ValueNow": 4418
+    },
+    "1677722318": {
+        "UniqueID": 1677722318,
+        "NameCustom": "Soft. Temperature 4",
+        "Unit": "\u00B0C",
+        "ValuePrev": 40,
+        "ValueNow": 40
+    },
+    "13421773015": {
+        "UniqueID": 13421773015,
+        "NameCustom": "Read Total",
+        "Unit": "MB",
+        "ValuePrev": 2,
+        "ValueNow": 2
+    },
+    "13421773014": {
+        "UniqueID": 13421773014,
+        "NameCustom": "Read Total",
+        "Unit": "MB",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421773013": {
+        "UniqueID": 13421773013,
+        "NameCustom": "Total Host Writes",
+        "Unit": "GB",
+        "ValuePrev": 17497,
+        "ValueNow": 17497
+    },
+    "13421773012": {
+        "UniqueID": 13421773012,
+        "NameCustom": "Total Host Writes",
+        "Unit": "GB",
+        "ValuePrev": 25823,
+        "ValueNow": 25823
+    },
+    "1174405321": {
+        "UniqueID": 1174405321,
+        "NameCustom": "Core 0 T1 Utility",
+        "Unit": "%",
+        "ValuePrev": 17.91199938652708,
+        "ValueNow": 17.91199938652708
+    },
+    "1174405322": {
+        "UniqueID": 1174405322,
+        "NameCustom": "Core 4 C0 Residency",
+        "Unit": "%",
+        "ValuePrev": 5.036778926849365,
+        "ValueNow": 5.036778926849365
+    },
+    "13421773017": {
+        "UniqueID": 13421773017,
+        "NameCustom": "GPU D3D Memory Dynamic",
+        "Unit": "MB",
+        "ValuePrev": 169.66015625,
+        "ValueNow": 169.66015625
+    },
+    "1174405324": {
+        "UniqueID": 1174405324,
+        "NameCustom": "Power Reporting Deviation (Accuracy)",
+        "Unit": "%",
+        "ValuePrev": 112.06743292228714,
+        "ValueNow": 112.06743292228714
+    },
+    "13421773016": {
+        "UniqueID": 13421773016,
+        "NameCustom": "Read Total",
+        "Unit": "MB",
+        "ValuePrev": 17677,
+        "ValueNow": 17677
+    },
+    "167772244": {
+        "UniqueID": 167772244,
+        "NameCustom": "CPU CCD1 (Tdie)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 47.25,
+        "ValueNow": 47.25
+    },
+    "13421773020": {
+        "UniqueID": 13421773020,
+        "NameCustom": "Current DL rate",
+        "Unit": "KB/s",
+        "ValuePrev": 15.378815854258985,
+        "ValueNow": 15.378815854258985
+    },
+    "3355443217": {
+        "UniqueID": 3355443217,
+        "NameCustom": "GPU Core Voltage (VDDCR_GFX)",
+        "Unit": "V",
+        "ValuePrev": 0.7974757552146912,
+        "ValueNow": 0.7974757552146912
+    },
+    "3355443218": {
+        "UniqueID": 3355443218,
+        "NameCustom": "Fan Voltage 1",
+        "Unit": "V",
+        "ValuePrev": 11.91,
+        "ValueNow": 11.91
+    },
+    "1174405331": {
+        "UniqueID": 1174405331,
+        "NameCustom": "Core 1 T0 Utility",
+        "Unit": "%",
+        "ValuePrev": 24.953152545784665,
+        "ValueNow": 24.953152545784665
+    },
+    "11744054317": {
+        "UniqueID": 11744054317,
+        "NameCustom": "GPU Computing (Compute 1) Usage",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1174405341": {
+        "UniqueID": 1174405341,
+        "NameCustom": "Core 1 T1 Utility",
+        "Unit": "%",
+        "ValuePrev": 10.469409876738471,
+        "ValueNow": 10.469409876738471
+    },
+    "1174405342": {
+        "UniqueID": 1174405342,
+        "NameCustom": "Core 5 C0 Residency",
+        "Unit": "%",
+        "ValuePrev": 6.550615310668945,
+        "ValueNow": 6.550615310668945
+    },
+    "1174405351": {
+        "UniqueID": 1174405351,
+        "NameCustom": "Core 2 T0 Utility",
+        "Unit": "%",
+        "ValuePrev": 1.9297780632133226,
+        "ValueNow": 1.9297780632133226
+    },
+    "8388608317": {
+        "UniqueID": 8388608317,
+        "NameCustom": "GPU SoC Power (VDDCR_SOC)",
+        "Unit": "W",
+        "ValuePrev": 4.373251914978027,
+        "ValueNow": 4.373251914978027
+    },
+    "6710886517": {
+        "UniqueID": 6710886517,
+        "NameCustom": "GPU Memory Current (VDDIO)",
+        "Unit": "A",
+        "ValuePrev": 6.052188873291016,
+        "ValueNow": 6.052188873291016
+    },
+    "1174405361": {
+        "UniqueID": 1174405361,
+        "NameCustom": "Core 2 T1 Utility",
+        "Unit": "%",
+        "ValuePrev": 2.0752742455601094,
+        "ValueNow": 2.0752742455601094
+    },
+    "1174405362": {
+        "UniqueID": 1174405362,
+        "NameCustom": "Core 6 C0 Residency",
+        "Unit": "%",
+        "ValuePrev": 5.230656623840332,
+        "ValueNow": 5.230656623840332
+    },
+    "13421775819": {
+        "UniqueID": 13421775819,
+        "NameCustom": "GPU Busy",
+        "Unit": "ms",
+        "ValuePrev": 0.16943994164466858,
+        "ValueNow": 0.16943994164466858
+    },
+    "1174405371": {
+        "UniqueID": 1174405371,
+        "NameCustom": "Core 3 T0 Utility",
+        "Unit": "%",
+        "ValuePrev": 4.904392100226539,
+        "ValueNow": 4.904392100226539
+    },
+    "11744057117": {
+        "UniqueID": 11744057117,
+        "NameCustom": "GPU SOC TDC Limit",
+        "Unit": "%",
+        "ValuePrev": 9.69356276772239,
+        "ValueNow": 9.69356276772239
+    },
+    "1174405381": {
+        "UniqueID": 1174405381,
+        "NameCustom": "Core 3 T1 Utility",
+        "Unit": "%",
+        "ValuePrev": 10.94923902876218,
+        "ValueNow": 10.94923902876218
+    },
+    "1174405382": {
+        "UniqueID": 1174405382,
+        "NameCustom": "Core 7 C0 Residency",
+        "Unit": "%",
+        "ValuePrev": 29.399967193603516,
+        "ValueNow": 29.399967193603516
+    },
+    "1174405391": {
+        "UniqueID": 1174405391,
+        "NameCustom": "Core 4 T0 Utility",
+        "Unit": "%",
+        "ValuePrev": 2.299606276255239,
+        "ValueNow": 2.299606276255239
+    },
+    "11744056217": {
+        "UniqueID": 11744056217,
+        "NameCustom": "GPU PPT Limit",
+        "Unit": "%",
+        "ValuePrev": 9.47033688691163,
+        "ValueNow": 9.47033688691163
+    },
+    "1174405401": {
+        "UniqueID": 1174405401,
+        "NameCustom": "Core 4 T1 Utility",
+        "Unit": "%",
+        "ValuePrev": 3.4118441148466006,
+        "ValueNow": 3.4118441148466006
+    },
+    "1174405402": {
+        "UniqueID": 1174405402,
+        "NameCustom": "Core 0 C1 Residency",
+        "Unit": "%",
+        "ValuePrev": 75.81192779541016,
+        "ValueNow": 75.81192779541016
+    },
+    "1174405411": {
+        "UniqueID": 1174405411,
+        "NameCustom": "Core 5 T0 Utility",
+        "Unit": "%",
+        "ValuePrev": 2.7719401387496556,
+        "ValueNow": 2.7719401387496556
+    },
+    "1174405412": {
+        "UniqueID": 1174405412,
+        "NameCustom": "Core 1 C1 Residency",
+        "Unit": "%",
+        "ValuePrev": 69.3208999633789,
+        "ValueNow": 69.3208999633789
+    },
+    "13421773115": {
+        "UniqueID": 13421773115,
+        "NameCustom": "Write Total",
+        "Unit": "MB",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "13421773114": {
+        "UniqueID": 13421773114,
+        "NameCustom": "Write Total",
+        "Unit": "MB",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1174405421": {
+        "UniqueID": 1174405421,
+        "NameCustom": "Core 5 T1 Utility",
+        "Unit": "%",
+        "ValuePrev": 4.607487974797796,
+        "ValueNow": 4.607487974797796
+    },
+    "6710888417": {
+        "UniqueID": 6710888417,
+        "NameCustom": "GPU Core TDC Limit",
+        "Unit": "A",
+        "ValuePrev": 320,
+        "ValueNow": 320
+    },
+    "1174405422": {
+        "UniqueID": 1174405422,
+        "NameCustom": "Core 2 C1 Residency",
+        "Unit": "%",
+        "ValuePrev": 96.37556457519531,
+        "ValueNow": 96.37556457519531
+    },
+    "13421773117": {
+        "UniqueID": 13421773117,
+        "NameCustom": "PCIe Link Speed",
+        "Unit": "GT/s",
+        "ValuePrev": 16,
+        "ValueNow": 16
+    },
+    "13421773116": {
+        "UniqueID": 13421773116,
+        "NameCustom": "Write Total",
+        "Unit": "MB",
+        "ValuePrev": 29077,
+        "ValueNow": 29077
+    },
+    "13421773120": {
+        "UniqueID": 13421773120,
+        "NameCustom": "Current UP rate",
+        "Unit": "KB/s",
+        "ValuePrev": 18.42967211349089,
+        "ValueNow": 18.42967211349089
+    },
+    "3355443317": {
+        "UniqueID": 3355443317,
+        "NameCustom": "GPU Memory Voltage (VDDIO)",
+        "Unit": "V",
+        "ValuePrev": 1.3562530279159546,
+        "ValueNow": 1.3562530279159546
+    },
+    "1174405431": {
+        "UniqueID": 1174405431,
+        "NameCustom": "Core 6 T0 Utility",
+        "Unit": "%",
+        "ValuePrev": 2.985201556604226,
+        "ValueNow": 2.985201556604226
+    },
+    "11744054417": {
+        "UniqueID": 11744054417,
+        "NameCustom": "GPU Computing (Compute 3) Usage",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1174405432": {
+        "UniqueID": 1174405432,
+        "NameCustom": "Core 3 C1 Residency",
+        "Unit": "%",
+        "ValuePrev": 85.61487579345703,
+        "ValueNow": 85.61487579345703
+    },
+    "1174405441": {
+        "UniqueID": 1174405441,
+        "NameCustom": "Core 6 T1 Utility",
+        "Unit": "%",
+        "ValuePrev": 3.0747757908424895,
+        "ValueNow": 3.0747757908424895
+    },
+    "1174405442": {
+        "UniqueID": 1174405442,
+        "NameCustom": "Core 4 C1 Residency",
+        "Unit": "%",
+        "ValuePrev": 94.9632797241211,
+        "ValueNow": 94.9632797241211
+    },
+    "13421776819": {
+        "UniqueID": 13421776819,
+        "NameCustom": "CPU Busy",
+        "Unit": "ms",
+        "ValuePrev": 5.3001885414123535,
+        "ValueNow": 5.3001885414123535
+    },
+    "1174405451": {
+        "UniqueID": 1174405451,
+        "NameCustom": "Core 7 T0 Utility",
+        "Unit": "%",
+        "ValuePrev": 16.914658547124947,
+        "ValueNow": 16.914658547124947
+    },
+    "1174405452": {
+        "UniqueID": 1174405452,
+        "NameCustom": "Core 5 C1 Residency",
+        "Unit": "%",
+        "ValuePrev": 93.44945526123047,
+        "ValueNow": 93.44945526123047
+    },
+    "8388608418": {
+        "UniqueID": 8388608418,
+        "NameCustom": "Fan Power 5",
+        "Unit": "W",
+        "ValuePrev": 0.6,
+        "ValueNow": 0.6
+    },
+    "6710886617": {
+        "UniqueID": 6710886617,
+        "NameCustom": "GPU SoC Current (VDDCR_SOC)",
+        "Unit": "A",
+        "ValuePrev": 5.332333087921143,
+        "ValueNow": 5.332333087921143
+    },
+    "1174405461": {
+        "UniqueID": 1174405461,
+        "NameCustom": "Core 7 T1 Utility",
+        "Unit": "%",
+        "ValuePrev": 16.72676029563174,
+        "ValueNow": 16.72676029563174
+    },
+    "1174405462": {
+        "UniqueID": 1174405462,
+        "NameCustom": "Core 6 C1 Residency",
+        "Unit": "%",
+        "ValuePrev": 94.76930236816406,
+        "ValueNow": 94.76930236816406
+    },
+    "13421775919": {
+        "UniqueID": 13421775919,
+        "NameCustom": "GPU Wait",
+        "Unit": "ms",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "5033164817": {
+        "UniqueID": 5033164817,
+        "NameCustom": "GPU Fan",
+        "Unit": "RPM",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "5033164818": {
+        "UniqueID": 5033164818,
+        "NameCustom": "Fan 1",
+        "Unit": "RPM",
+        "ValuePrev": 870,
+        "ValueNow": 870
+    },
+    "1174405471": {
+        "UniqueID": 1174405471,
+        "NameCustom": "Total CPU Utility",
+        "Unit": "%",
+        "ValuePrev": 8.517399431255392,
+        "ValueNow": 8.517399431255392
+    },
+    "1174405472": {
+        "UniqueID": 1174405472,
+        "NameCustom": "Core 7 C1 Residency",
+        "Unit": "%",
+        "ValuePrev": 70.5999984741211,
+        "ValueNow": 70.5999984741211
+    },
+    "11744057217": {
+        "UniqueID": 11744057217,
+        "NameCustom": "GPU Edge Thermal Limit",
+        "Unit": "%",
+        "ValuePrev": 36.39643478393555,
+        "ValueNow": 36.39643478393555
+    },
+    "13421773211": {
+        "UniqueID": 13421773211,
+        "NameCustom": "Total Host Reads",
+        "Unit": "GB",
+        "ValuePrev": 1861,
+        "ValueNow": 1861
+    },
+    "13421773213": {
+        "UniqueID": 13421773213,
+        "NameCustom": "Total Host Reads",
+        "Unit": "GB",
+        "ValuePrev": 27803,
+        "ValueNow": 27803
+    },
+    "6710888517": {
+        "UniqueID": 6710888517,
+        "NameCustom": "GPU SOC TDC Limit",
+        "Unit": "A",
+        "ValuePrev": 55,
+        "ValueNow": 55
+    },
+    "13421773217": {
+        "UniqueID": 13421773217,
+        "NameCustom": "GPU Memory Usage",
+        "Unit": "MB",
+        "ValuePrev": 2966,
+        "ValueNow": 2966
+    },
+    "1677721610": {
+        "UniqueID": 1677721610,
+        "NameCustom": "DIMM[0] Temperature (P0 CHANNEL A/DIMM 0)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 45,
+        "ValueNow": 45
+    },
+    "13421777817": {
+        "UniqueID": 13421777817,
+        "NameCustom": "Framerate",
+        "Unit": "FPS",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1677721611": {
+        "UniqueID": 1677721611,
+        "NameCustom": "Drive Temperature",
+        "Unit": "\u00B0C",
+        "ValuePrev": 39,
+        "ValueNow": 39
+    },
+    "3355443417": {
+        "UniqueID": 3355443417,
+        "NameCustom": "GPU SoC Voltage (VDDCR_SOC)",
+        "Unit": "V",
+        "ValuePrev": 0.8200179934501648,
+        "ValueNow": 0.8200179934501648
+    },
+    "3355443418": {
+        "UniqueID": 3355443418,
+        "NameCustom": "Fan Voltage 3",
+        "Unit": "V",
+        "ValuePrev": 11.91,
+        "ValueNow": 11.91
+    },
+    "1677721613": {
+        "UniqueID": 1677721613,
+        "NameCustom": "Drive Temperature",
+        "Unit": "\u00B0C",
+        "ValuePrev": 51,
+        "ValueNow": 51
+    },
+    "11744054517": {
+        "UniqueID": 11744054517,
+        "NameCustom": "GPU Computing (High Priority Compute) Usage",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1677721617": {
+        "UniqueID": 1677721617,
+        "NameCustom": "GPU Temperature",
+        "Unit": "\u00B0C",
+        "ValuePrev": 36,
+        "ValueNow": 36
+    },
+    "1677721618": {
+        "UniqueID": 1677721618,
+        "NameCustom": "Temperature 1",
+        "Unit": "\u00B0C",
+        "ValuePrev": 34.11,
+        "ValueNow": 34.11
+    },
+    "13421776919": {
+        "UniqueID": 13421776919,
+        "NameCustom": "CPU Wait",
+        "Unit": "ms",
+        "ValuePrev": 0.7536019682884216,
+        "ValueNow": 0.7536019682884216
+    },
+    "8388608517": {
+        "UniqueID": 8388608517,
+        "NameCustom": "GPU Memory Power (VDDCI_MEM)",
+        "Unit": "W",
+        "ValuePrev": 8.085532188415527,
+        "ValueNow": 8.085532188415527
+    },
+    "1342177280": {
+        "UniqueID": 1342177280,
+        "NameCustom": "Virtual Memory Committed",
+        "Unit": "MB",
+        "ValuePrev": 25762,
+        "ValueNow": 25762
+    },
+    "6710886717": {
+        "UniqueID": 6710886717,
+        "NameCustom": "GPU Memory Current (VDDCI_MEM)",
+        "Unit": "A",
+        "ValuePrev": 9.512397766113281,
+        "ValueNow": 9.512397766113281
+    },
+    "1342177281": {
+        "UniqueID": 1342177281,
+        "NameCustom": "Core 0 Ratio",
+        "Unit": "x",
+        "ValuePrev": 38.8,
+        "ValueNow": 38.8
+    },
+    "1342177283": {
+        "UniqueID": 1342177283,
+        "NameCustom": "Memory Clock Ratio",
+        "Unit": "x",
+        "ValuePrev": 19,
+        "ValueNow": 19
+    },
+    "1342177284": {
+        "UniqueID": 1342177284,
+        "NameCustom": "Thermal Throttling (HTC)",
+        "Unit": "Yes/No",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1342177285": {
+        "UniqueID": 1342177285,
+        "NameCustom": "Chassis Intrusion",
+        "Unit": "Yes/No",
+        "ValuePrev": 16,
+        "ValueNow": 16
+    },
+    "1342177286": {
+        "UniqueID": 1342177286,
+        "NameCustom": "Chassis Intrusion",
+        "Unit": "Yes/No",
+        "ValuePrev": 16,
+        "ValueNow": 16
+    },
+    "1342177290": {
+        "UniqueID": 1342177290,
+        "NameCustom": "Virtual Memory Available",
+        "Unit": "MB",
+        "ValuePrev": 43776,
+        "ValueNow": 43776
+    },
+    "1342177291": {
+        "UniqueID": 1342177291,
+        "NameCustom": "Core 1 Ratio",
+        "Unit": "x",
+        "ValuePrev": 48.5,
+        "ValueNow": 48.5
+    },
+    "1342177293": {
+        "UniqueID": 1342177293,
+        "NameCustom": "Tcas",
+        "Unit": "T",
+        "ValuePrev": 18,
+        "ValueNow": 18
+    },
+    "1342177294": {
+        "UniqueID": 1342177294,
+        "NameCustom": "Thermal Throttling (PROCHOT CPU)",
+        "Unit": "Yes/No",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "11744057317": {
+        "UniqueID": 11744057317,
+        "NameCustom": "GPU Hotspot Thermal Limit",
+        "Unit": "%",
+        "ValuePrev": 36.65800961581144,
+        "ValueNow": 36.65800961581144
+    },
+    "1342177300": {
+        "UniqueID": 1342177300,
+        "NameCustom": "Virtual Memory Load",
+        "Unit": "%",
+        "ValuePrev": 37,
+        "ValueNow": 37
+    },
+    "1342177301": {
+        "UniqueID": 1342177301,
+        "NameCustom": "Core 2 Ratio",
+        "Unit": "x",
+        "ValuePrev": 38.8,
+        "ValueNow": 38.8
+    },
+    "1342177303": {
+        "UniqueID": 1342177303,
+        "NameCustom": "Trcd",
+        "Unit": "T",
+        "ValuePrev": 22,
+        "ValueNow": 22
+    },
+    "1342177304": {
+        "UniqueID": 1342177304,
+        "NameCustom": "Thermal Throttling (PROCHOT EXT)",
+        "Unit": "Yes/No",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1342177310": {
+        "UniqueID": 1342177310,
+        "NameCustom": "Physical Memory Used",
+        "Unit": "MB",
+        "ValuePrev": 20460,
+        "ValueNow": 20460
+    },
+    "1342177311": {
+        "UniqueID": 1342177311,
+        "NameCustom": "Core 3 Ratio",
+        "Unit": "x",
+        "ValuePrev": 38.8,
+        "ValueNow": 38.8
+    },
+    "1342177313": {
+        "UniqueID": 1342177313,
+        "NameCustom": "Trp",
+        "Unit": "T",
+        "ValuePrev": 22,
+        "ValueNow": 22
+    },
+    "10066330017": {
+        "UniqueID": 10066330017,
+        "NameCustom": "GPU Memory Clock",
+        "Unit": "MHz",
+        "ValuePrev": 1336,
+        "ValueNow": 1336
+    },
+    "1342177320": {
+        "UniqueID": 1342177320,
+        "NameCustom": "Physical Memory Available",
+        "Unit": "MB",
+        "ValuePrev": 44981,
+        "ValueNow": 44981
+    },
+    "1342177321": {
+        "UniqueID": 1342177321,
+        "NameCustom": "Core 4 Ratio",
+        "Unit": "x",
+        "ValuePrev": 38.8,
+        "ValueNow": 38.8
+    },
+    "1006632961": {
+        "UniqueID": 1006632961,
+        "NameCustom": "Core 0 Clock (perf #2/3)",
+        "Unit": "MHz",
+        "ValuePrev": 3879.9999999999995,
+        "ValueNow": 3879.9999999999995
+    },
+    "1342177323": {
+        "UniqueID": 1342177323,
+        "NameCustom": "Tras",
+        "Unit": "T",
+        "ValuePrev": 42,
+        "ValueNow": 42
+    },
+    "1006632963": {
+        "UniqueID": 1006632963,
+        "NameCustom": "Memory Clock",
+        "Unit": "MHz",
+        "ValuePrev": 1900,
+        "ValueNow": 1900
+    },
+    "1006632964": {
+        "UniqueID": 1006632964,
+        "NameCustom": "Infinity Fabric Clock (FCLK)",
+        "Unit": "MHz",
+        "ValuePrev": 1900,
+        "ValueNow": 1900
+    },
+    "167773444": {
+        "UniqueID": 167773444,
+        "NameCustom": "Core0 (CCD1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 38.54792785644531,
+        "ValueNow": 38.54792785644531
+    },
+    "1342177330": {
+        "UniqueID": 1342177330,
+        "NameCustom": "Physical Memory Load",
+        "Unit": "%",
+        "ValuePrev": 31.2,
+        "ValueNow": 31.2
+    },
+    "1342177331": {
+        "UniqueID": 1342177331,
+        "NameCustom": "Core 5 Ratio",
+        "Unit": "x",
+        "ValuePrev": 38.8,
+        "ValueNow": 38.8
+    },
+    "1006632971": {
+        "UniqueID": 1006632971,
+        "NameCustom": "Core 1 Clock (perf #1/2)",
+        "Unit": "MHz",
+        "ValuePrev": 4850,
+        "ValueNow": 4850
+    },
+    "1342177333": {
+        "UniqueID": 1342177333,
+        "NameCustom": "Trc",
+        "Unit": "T",
+        "ValuePrev": 89,
+        "ValueNow": 89
+    },
+    "1006632974": {
+        "UniqueID": 1006632974,
+        "NameCustom": "Memory Controller Clock (UCLK)",
+        "Unit": "MHz",
+        "ValuePrev": 1900,
+        "ValueNow": 1900
+    },
+    "1677722617": {
+        "UniqueID": 1677722617,
+        "NameCustom": "GPU Hot Spot Temperature",
+        "Unit": "\u00B0C",
+        "ValuePrev": 40,
+        "ValueNow": 40
+    },
+    "167773454": {
+        "UniqueID": 167773454,
+        "NameCustom": "Core1 (CCD1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 39.508113861083984,
+        "ValueNow": 39.508113861083984
+    },
+    "1342177340": {
+        "UniqueID": 1342177340,
+        "NameCustom": "Page File Usage",
+        "Unit": "%",
+        "ValuePrev": 0,
+        "ValueNow": 0
+    },
+    "1342177341": {
+        "UniqueID": 1342177341,
+        "NameCustom": "Core 6 Ratio",
+        "Unit": "x",
+        "ValuePrev": 38.6,
+        "ValueNow": 38.6
+    },
+    "1006632981": {
+        "UniqueID": 1006632981,
+        "NameCustom": "Core 2 Clock (perf #6/7)",
+        "Unit": "MHz",
+        "ValuePrev": 3879.9999999999995,
+        "ValueNow": 3879.9999999999995
+    },
+    "1342177343": {
+        "UniqueID": 1342177343,
+        "NameCustom": "Trfc",
+        "Unit": "T",
+        "ValuePrev": 666,
+        "ValueNow": 666
+    },
+    "1677721710": {
+        "UniqueID": 1677721710,
+        "NameCustom": "DIMM[1] Temperature (P0 CHANNEL A/DIMM 1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 45.25,
+        "ValueNow": 45.25
+    },
+    "167773464": {
+        "UniqueID": 167773464,
+        "NameCustom": "Core2 (CCD1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 36.52970504760742,
+        "ValueNow": 36.52970504760742
+    },
+    "3355443517": {
+        "UniqueID": 3355443517,
+        "NameCustom": "GPU Memory Voltage (VDDCI_MEM)",
+        "Unit": "V",
+        "ValuePrev": 0.8499985933303833,
+        "ValueNow": 0.8499985933303833
+    },
+    "1677721712": {
+        "UniqueID": 1677721712,
+        "NameCustom": "Drive Airflow Temperature",
+        "Unit": "\u00B0C",
+        "ValuePrev": 37,
+        "ValueNow": 37
+    },
+    "1342177351": {
+        "UniqueID": 1342177351,
+        "NameCustom": "Core 7 Ratio",
+        "Unit": "x",
+        "ValuePrev": 48.25,
+        "ValueNow": 48.25
+    },
+    "1677721713": {
+        "UniqueID": 1677721713,
+        "NameCustom": "Drive Temperature 2",
+        "Unit": "\u00B0C",
+        "ValuePrev": 51,
+        "ValueNow": 51
+    },
+    "1006632991": {
+        "UniqueID": 1006632991,
+        "NameCustom": "Core 3 Clock (perf #3/4)",
+        "Unit": "MHz",
+        "ValuePrev": 3879.9999999999995,
+        "ValueNow": 3879.9999999999995
+    },
+    "1342177353": {
+        "UniqueID": 1342177353,
+        "NameCustom": "Command Rate",
+        "Unit": "T",
+        "ValuePrev": 1,
+        "ValueNow": 1
+    },
+    "1342177354": {
+        "UniqueID": 1342177354,
+        "NameCustom": "DRAM Read Bandwidth",
+        "Unit": "GB/s",
+        "ValuePrev": 1.2060467004776,
+        "ValueNow": 1.2060467004776
+    },
+    "8388609517": {
+        "UniqueID": 8388609517,
+        "NameCustom": "GPU PPT",
+        "Unit": "W",
+        "ValuePrev": 26.61164665222168,
+        "ValueNow": 26.61164665222168
+    },
+    "167773474": {
+        "UniqueID": 167773474,
+        "NameCustom": "Core3 (CCD1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 37.8726921081543,
+        "ValueNow": 37.8726921081543
+    },
+    "1006633001": {
+        "UniqueID": 1006633001,
+        "NameCustom": "Core 4 Clock (perf #5/6)",
+        "Unit": "MHz",
+        "ValuePrev": 3879.9999999999995,
+        "ValueNow": 3879.9999999999995
+    },
+    "1342177364": {
+        "UniqueID": 1342177364,
+        "NameCustom": "DRAM Write Bandwidth",
+        "Unit": "GB/s",
+        "ValuePrev": 0.24558982253074646,
+        "ValueNow": 0.24558982253074646
+    },
+    "1006633004": {
+        "UniqueID": 1006633004,
+        "NameCustom": "L3 Cache (CCD1)",
+        "Unit": "MHz",
+        "ValuePrev": 4421.206951141357,
+        "ValueNow": 4421.206951141357
+    },
+    "671088644": {
+        "UniqueID": 671088644,
+        "NameCustom": "CPU Core Current (SVI2 TFN)",
+        "Unit": "A",
+        "ValuePrev": 14.095197677612305,
+        "ValueNow": 14.095197677612305
+    },
+    "671088647": {
+        "UniqueID": 671088647,
+        "NameCustom": "Current (IOUT)",
+        "Unit": "A",
+        "ValuePrev": 23.700000000000003,
+        "ValueNow": 23.700000000000003
+    },
+    "167773484": {
+        "UniqueID": 167773484,
+        "NameCustom": "Core4 (CCD1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 36.23427200317383,
+        "ValueNow": 36.23427200317383
+    },
+    "671088648": {
+        "UniqueID": 671088648,
+        "NameCustom": "Current (IOUT)",
+        "Unit": "A",
+        "ValuePrev": 12.700000000000001,
+        "ValueNow": 12.700000000000001
+    },
+    "167774404": {
+        "UniqueID": 167774404,
+        "NameCustom": "L3 Cache (CCD1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 35.745880126953125,
+        "ValueNow": 35.745880126953125
+    },
+    "1006633011": {
+        "UniqueID": 1006633011,
+        "NameCustom": "Core 5 Clock (perf #4/5)",
+        "Unit": "MHz",
+        "ValuePrev": 3879.9999999999995,
+        "ValueNow": 3879.9999999999995
+    },
+    "671088654": {
+        "UniqueID": 671088654,
+        "NameCustom": "SoC Current (SVI2 TFN)",
+        "Unit": "A",
+        "ValuePrev": 13.85545825958252,
+        "ValueNow": 13.85545825958252
+    },
+    "8388608618": {
+        "UniqueID": 8388608618,
+        "NameCustom": "Fan Power 7",
+        "Unit": "W",
+        "ValuePrev": 0.01,
+        "ValueNow": 0.01
+    },
+    "671088657": {
+        "UniqueID": 671088657,
+        "NameCustom": "Current (IIN)",
+        "Unit": "A",
+        "ValuePrev": 4.49,
+        "ValueNow": 4.49
+    },
+    "167773494": {
+        "UniqueID": 167773494,
+        "NameCustom": "Core5 (CCD1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 36.86907196044922,
+        "ValueNow": 36.86907196044922
+    },
+    "671088658": {
+        "UniqueID": 671088658,
+        "NameCustom": "Current (IIN)",
+        "Unit": "A",
+        "ValuePrev": 1.51,
+        "ValueNow": 1.51
+    },
+    "1006633021": {
+        "UniqueID": 1006633021,
+        "NameCustom": "Core 6 Clock (perf #7/8)",
+        "Unit": "MHz",
+        "Value60},"671088664":{"Un60
+    },
+    "671088664": {
+        "UniqueID": 671088664,
+        "NameCustom": "CPU TDC",
+        "Unit": "A",
+        "ValuePrev": 14.102481842041016,
+        "ValueNow": 14.102481842041016
+    },
+    "5033165018": {
+        "UniqueID": 5033165018,
+        "NameCustom": "Fan 3",
+        "Unit": "RPM",
+        "ValuePrev": 880,
+        "ValueNow": 880
+    },
+    "167773504": {
+        "UniqueID": 167773504,
+        "NameCustom": "Core6 (CCD1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 36.13729476928711,
+        "ValueNow": 36.13729476928711
+    },
+    "1006633031": {
+        "UniqueID": 1006633031,
+        "NameCustom": "Core 7 Clock (perf #1/1)",
+        "Unit": "MHz",
+        "ValuePrev": 4825,
+        "ValueNow": 4825
+    },
+    "1342177394": {
+        "UniqueID": 1342177394,
+        "NameCustom": "Average Active Core Count",
+        "Unit": "",
+        "ValuePrev": 1.1909468173980713,
+        "ValueNow": 1.1909468173980713
+    },
+    "11744057417": {
+        "UniqueID": 11744057417,
+        "NameCustom": "GPU Memory Thermal Limit",
+        "Unit": "%",
+        "ValuePrev": 39.999961853027344,
+        "ValueNow": 39.999961853027344
+    },
+    "671088674": {
+        "UniqueID": 671088674,
+        "NameCustom": "CPU EDC",
+        "Unit": "A",
+        "ValuePrev": 15.964256618480723,
+        "ValueNow": 15.964256618480723
+    },
+    "167773514": {
+        "UniqueID": 167773514,
+        "NameCustom": "Core7 (CCD1)",
+        "Unit": "\u00B0C",
+        "ValuePrev": 38.7551155090332,
+        "ValueNow": 38.7551155090332
+    },
+    "1006633041": {
+        "UniqueID": 1006633041,
+        "NameCustom": "Bus Clock",
+        "Unit": "MHz",
+        "ValuePrev": 100,
+        "ValueNow": 100
+    },
+    "335544321": {
+        "UniqueID": 335544321,
+        "NameCustom": "Core 0 VID",
+        "Unit": "V",
+        "ValuePrev": 1.375,
+        "ValueNow": 1.375
+    },
+    "335544324": {
+        "UniqueID": 335544324,
+        "NameCustom": "CPU Core Voltage (SVI2 TFN)",
+        "Unit": "V",
+        "ValuePrev": 1.337499976158142,
+        "ValueNow": 1.337499976158142
+    },
+    "335544325": {
+        "UniqueID": 335544325,
+        "NameCustom": "Vcore",
+        "Unit": "V",
+        "ValuePrev": 1.104,
+        "ValueNow": 1.104
+    },
+    "335544326": {
+        "UniqueID": 335544326,
+        "NameCustom": "VIN0",
+        "Unit": "V",
+        "ValuePrev": 1.8039999999999998,
+        "ValueNow": 1.8039999999999998
+    },
+    "335544327": {
+        "UniqueID": 335544327,
+        "NameCustom": "VR VOUT",
+        "Unit": "V",
+        "ValuePrev": 1.375,
+        "ValueNow": 1.375
+    },
+    "335544328": {
+        "UniqueID": 335544328,
+        "NameCustom": "VR VOUT",
+        "Unit": "V",
+        "ValuePrev": 1.181,
+        "ValueNow": 1.181
+    },
+    "335544331": {
+        "UniqueID": 335544331,
+        "NameCustom": "Core 1 VID",
+        "Unit": "V",
+        "ValuePrev": 1.38125,
+        "ValueNow": 1.38125
+    },
+    "335544334": {
+        "UniqueID": 335544334,
+        "NameCustom": "SoC Voltage (SVI2 TFN)",
+        "Unit": "V",
+        "ValuePrev": 1.1875,
+        "ValueNow": 1.1875
+    },
+    "335544335": {
+        "UniqueID": 335544335,
+        "NameCustom": "\u002B3.3V",
+        "Unit": "V",
+        "ValuePrev": 3.344172,
+        "ValueNow": 3.344172
+    },
+    "335544336": {
+        "UniqueID": 335544336,
+        "NameCustom": "DDR VTT",
+        "Unit": "V",
+        "ValuePrev": 0.6819999999999999,
+        "ValueNow": 0.6819999999999999
+    },
+    "335544337": {
+        "UniqueID": 335544337,
+        "NameCustom": "VR VIN",
+        "Unit": "V",
+        "ValuePrev": 11.91,
+        "ValueNow": 11.91
+    },
+    "335544338": {
+        "UniqueID": 335544338,
+        "NameCustom": "VR VIN",
+        "Unit": "V",
+        "ValuePrev": 11.9,
+        "ValueNow": 11.9
+    },
+    "335544341": {
+        "UniqueID": 335544341,
+        "NameCustom": "Core 2 VID",
+        "Unit": "V",
+        "ValuePrev": 1.38125,
+        "ValueNow": 1.38125
+    },
+    "335544344": {
+        "UniqueID": 335544344,
+        "NameCustom": "CPU Core VID (Effective)",
+        "Unit": "V",
+        "ValuePrev": 1.35625,
+        "ValueNow": 1.35625
+    },
+    "335544345": {
+        "UniqueID": 335544345,
+        "NameCustom": "\u002B12V",
+        "Unit": "V",
+        "ValuePrev": 12.024000000000001,
+        "ValueNow": 12.024000000000001
+    },
+    "335544346": {
+        "UniqueID": 335544346,
+        "NameCustom": "Chipset Core",
+        "Unit": "V",
+        "ValuePrev": 1.056,
+        "ValueNow": 1.056
+    },
+    "335544351": {
+        "UniqueID": 335544351,
+        "NameCustom": "Core 3 VID",
+        "Unit": "V",
+        "ValuePrev": 1.38125,
+        "ValueNow": 1.38125
+    },
+    "1677722717": {
+        "UniqueID": 1677722717,
+        "NameCustom": "GPU VR SoC Temperature",
+        "Unit": "\u00B0C",
+        "ValuePrev": 36.22715377807617,
+        "ValueNow": 36.22715377807617
+    },
+    "335544355": {
+        "UniqueID": 335544355,
+        "NameCustom": "\u002B5V",
+        "Unit": "V",
+        "ValuePrev": 5.07,
+        "ValueNow": 5.07
+    },
+    "335544356": {
+        "UniqueID": 335544356,
+        "NameCustom": "VIN3",
+        "Unit": "V",
+        "ValuePrev": 1.7049999999999998,
+        "ValueNow": 1.7049999999999998
+    }
+}
